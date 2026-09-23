@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e9690b1078496144c179031c",
+  "owner": "geubjhv",
+  "repo": "page-6832618c53338c9cf723c1d4",
+  "title": "胡萝卜速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6832618c53338c9cf723c1d4",
+      "a": "胡萝卜速",
+      "b": "2027官方最新地址导航",
+      "entity": "胡萝卜速",
+      "brand": "胡萝卜速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f86fa0db51d1084477d1edc0faf68783973c5a7ca8d28483d7d3a69bb09a2bbc",
+      "content": {
+        "primary_entity": "胡萝卜速",
+        "keyword1": "胡萝卜速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "选对版本，按客户端文档导入订阅即可使用。",
+          "AI_CLOSING_TITLE": "胡萝卜速订阅上手",
+          "AI_DESCRIPTION": "，围绕设备数量、流量档位与订阅周期展开，胡萝卜速提供基础版、旗舰版与团队版三档选择，按月或按年计费，适配 Windows、macOS、Android、iOS 与路由器等常见客户端。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三方面了解胡萝卜速。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "按设备数量挑版本：3 台选基础版，5 台选旗舰版，20 台选团队版。",
+          "AI_FEATURE_TEXT_2": "按月或按年计费，年付相当于十个月价格，长期使用更划算。",
+          "AI_FEATURE_TEXT_3": "月流量从 100GB 到 1000GB，旗舰版以上含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TITLE_1": "设备匹配",
+          "AI_FEATURE_TITLE_2": "计费周期",
+          "AI_FEATURE_TITLE_3": "流量档位",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成胡萝卜速使用准备。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "胡萝卜速提供多档海外加速订阅，按设备数量与流量需求选择基础版、旗舰版或团队版，支持主流客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备选版本",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 流量",
+          "AI_PLANS_INTRO": "三档套餐按设备数量与月流量区分，可按月或按年订阅，横向比较后选择合适版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选设备的系统版本与网络环境满足客户端运行要求，再下载对应客户端。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅信息，连接节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "胡萝卜速订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备在线，解锁基础流媒体。旗舰版每月 300GB、支持 5 台设备，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化，并带 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个账户可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出在线数量时，新设备可能无法正常连接，建议按常用终端数量选择对应版本。",
+          "AI_FAQ_QUESTION_3": "按年付是否更划算？",
+          "AI_FAQ_ANSWER_3": "基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。按月付价格折算，长期使用按年付的月均成本更低。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量，支持 20 台设备在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人共用或需要稳定带宽的团队场景。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备对应的客户端名称，再依该客户端的文档导入订阅信息，选择合适节点后启用连接。若导入后无法连接，可先检查套餐在线设备数是否已满。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aqxihu.cn",
+    "host": "aqxihu.cn"
+  },
+  "file_hashes": {
+    "index.html": "6c2b3521b9e148aa4222c60cb84a875c67369031312c768caa2f12a8ae09a084",
+    "sitemap.xml": "7dd1d1a3db5419aa84423d31613cec8452c5e7c2e9dbd32a1f0b376611294108",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ad196a22af067930bb15015dae712a6b763f131eca572bab4397e5f9d7da2df1",
+    "robots.txt": "6d6b2a01d53a961b618eb5b25665320c9af29a867ff0c1ecb50ef9c1f69595fb",
+    "9986ffb273e492eb26732fe4739bfb81.txt": "5f3aa3b42c26da66ab7c19787da1ca8058f01f5a5709b905775fd10652f8440a"
+  },
+  "revision": "c198aac51f8cfb8c07210d0db621926b909239f905c6f9d195a7738d350322b5"
+}
